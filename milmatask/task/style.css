@@ -1,0 +1,47 @@
+.body{
+    margin: 0;
+}
+.navbar{
+    width: 100%;
+    height: auto;
+    position: fixed;
+}
+.navbar img{
+    margin: 2%;
+}
+.banner{
+    width: 100%;
+    height: auto;
+}
+.banner img{
+    width: 100%;
+}
+.iceCream{
+    width: 100%;
+    display: flex;
+}
+.iceCreamImage{
+    width: auto;
+    margin: 5%;
+}
+.iceCreamText{
+    width: 50%;
+    margin: 10%;
+    text-align: center;
+
+}
+.sec2{
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    color: #ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding: 2%;
+}
+.footer
+{
+    width:100%;
+    padding: 4%;
+    background-color: #2C65DA;
+}
